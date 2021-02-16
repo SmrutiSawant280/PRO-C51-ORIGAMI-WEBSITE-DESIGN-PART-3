@@ -1,0 +1,35 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:200;
+    color: #000;
+}
+body{
+    margin:0px;
+    background-color:blanchedalmond ;
+
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.grid img{
+    border:2px solid black;
+    border: radius 50%; 
+
+}
+.Origami{
+    border-radius:20px;
+    background-color:white;
+    padding:20px;
+    margin:25px;
+    width:310px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
